@@ -1,0 +1,13 @@
+export { default as FillGrid } from "./fill-grid";
+export { default as shuffle } from "./shuffleNumber";
+// export * from "./checknumberposition";
+export { default as checknumber } from "./checknumberposition";
+export { default as identifySquare } from "./identifysquares";
+export { default as checkGrid } from "./check-grid";
+export { default as compareArrays } from "./compare-arrays";
+export { default as copyGrid } from "./copy-grid";
+export { default as createFullGrid } from "./createFullGrid";
+export { default as fillGrid } from "./fill-grid";
+export { default as getRandomIndex } from "./get-random-index";
+export { default as removeNumbers } from "./remove-numbers";
+export { default as solveGrid } from "./solve-grid";
